@@ -1,0 +1,64 @@
+
+// High Fidlity De Phone
+
+- Title 
+Font Size : 30
+Font Family : Bold
+Color : Black
+
+- Text de backgrounds
+Font Size : 35
+Font Family : Semilight
+Color : White
+
+- Title de Paragraph
+Font Size : 40
+Font Family : Semilight
+Color : Black
+
+-Paragraph
+Font Size : 20
+Font Family : Semilight
+Color : (0,0,0,0.6)
+
+
+-Title De Photos
+Font Size : 25
+Font Family : Semilight
+Color : Black
+
+
+
+
+// High Fidility De Desktop
+
+- Title 
+Font Size : 54
+Font Family : Bold
+Color : White
+
+Nav Bar 
+Font Size : 40
+Font Family : Semilight
+Color : White
+
+- Text de backgrounds
+Font Size : 88
+Font Family : Semilight
+Color : White
+
+- Title de Paragraph
+Font Size : 75
+Font Family : Semilight
+Color : Black
+
+-Paragraph
+Font Size : 25
+Font Family : Semilight
+Color : (0,0,0,0.6)
+
+
+-Title De Photos
+Font Size : 25
+Font Family : Semilight
+Color : Black
